@@ -7,43 +7,43 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "Sobre"
 url = "about/"
 weight = 2
 
-[[main]]
-name = "Elements"
-url = "elements/"
-weight = 3
+# [[main]]
+# name = "Cursos"
+# url = "elements/"
+# weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Cursos"
 hasChildren = true
 
 [[main]]
-parent = "Pages"
-name = "Blog"
+parent = "Cursos"
+name = "Python"
 url = "blog/"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
+parent = "Cursos"
+name = "Hugo"
 url = "contact/"
 
 [[main]]
-parent = "Pages"
-name = "Authors"
+parent = "Cursos"
+name = "SQL"
 url = "authors/"
 
 [[main]]
-parent = "Pages"
-name = "Categories"
+parent = "Cursos"
+name = "Shell Script"
 url = "categories/"
 
 [[main]]
-parent = "Pages"
-name = "404 Page"
+parent = "Cursos"
+name = "Inglês"
 url = "404/"
 
 
