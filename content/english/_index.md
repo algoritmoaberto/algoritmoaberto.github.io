@@ -7,18 +7,18 @@ banner:
   button:
     enable: true
     label: "Participar da comunidade"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://www.instagram.com/algoritmoaberto/"
 
 # Features
 features:
   - title: "Aprenda com o Algoritmo Aberto"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Acreditamos que a programação pode ser acessível a todos. Oferecemos conteúdo didático, desde conceitos básicos até tópicos avançados, de maneira descomplicada."
     bulletpoints:
-    - "Desafios diarios de python nos stories."
     - "Python"
     - "SQL"
     - "Shell Script"
+    - "Inglês"
 
       # - "100+ Pre-build pages"
       # - "95+ Google Pagespeed Score"
@@ -28,29 +28,29 @@ features:
       # - "**Open-source and free** for personal and commercial use"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: "Participar"
+      link: "https://www.instagram.com/algoritmoaberto/"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Projetos e Desafios para inspirar"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Explore projetos e desafios práticos que vão inspirar sua jornada de aprendizado. Do básico ao avançado, você encontrará desafios que vão impulsionar o seu conhecimento em Python. Encontram-se nos sites:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "GitHub."
+      - "Instagram."
+      - "Udemy."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Participar"
+      link: "https://www.instagram.com/algoritmoaberto/"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "As principais razões para escolher Algoritmo Aberto"
     image: "/images/service-3.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Foco em Habilidades Práticas para o Mercado de Trabalho."
+      - "Comunidade Ativa."
+      - "Conteúdo Atualizado."
+      - "Exercícios e Projetos práticos."
     button:
       enable: false
       label: ""

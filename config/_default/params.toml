@@ -16,7 +16,7 @@ logo_text = "Hugoplate"
 navbar_fixed = true
 # theme-mode
 theme_switcher = true
-theme_default = "system" # available options [light/dark/system]
+theme_default = "dark" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
@@ -27,7 +27,8 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
+# copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
+copyright = "© 2024 Algoritmo Aberto"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -39,18 +40,19 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Participar"
-link = "contact"
+# link = "contact"
+link = "https://www.instagram.com/algoritmoaberto/"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
-[search]
-enable = true
-primary_color = "#121212"
-include_sections = ["blog"]
-show_image = true
-show_description = true
-show_tags = true
-show_categories = true
+# [search]
+# enable = true
+# primary_color = "#121212"
+# include_sections = ["blog"]
+# show_image = true
+# show_description = true
+# show_tags = true
+# show_categories = true
 
 
 # seo meta data for OpenGraph / Twitter Card

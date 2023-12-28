@@ -24,41 +24,45 @@ hasChildren = true
 [[main]]
 parent = "Cursos"
 name = "Python"
-url = "blog/"
+# url = "blog/"
+url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 [[main]]
 parent = "Cursos"
 name = "Hugo"
-url = "contact/"
+# url = "contact/"
+url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 [[main]]
 parent = "Cursos"
 name = "SQL"
-url = "authors/"
+# url = "authors/"
+url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 [[main]]
 parent = "Cursos"
 name = "Shell Script"
-url = "categories/"
+# url = "categories/"
+url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 [[main]]
 parent = "Cursos"
 name = "Inglês"
-url = "404/"
+url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 
 # footer menu
-[[footer]]
-name = "About"
-url = "about/"
-weight = 1
+# [[footer]]
+# name = "About"
+# url = "about/"
+# weight = 1
 
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 3
+# [[footer]]
+# name = "Elements"
+# url = "elements/"
+# weight = 2
+ 
+# [[footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+# weight = 3
