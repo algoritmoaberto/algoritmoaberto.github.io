@@ -30,6 +30,6 @@ Buscamos tornar a aprendizagem de Python uma experiência envolvente e acessíve
 Explore nossos cursos e recursos educativos.
 Junte-se à nossa comunidade nas redes sociais.
 Fique atualizado com nossas postagens regulares sobre dicas, truques e novidades em Python.
-Seja parte dessa jornada emocionante conosco! [Nome da Sua Página] está aqui para apoiá-lo em cada linha de código.
+Seja parte dessa jornada emocionante conosco! Algoritmo Aberto está aqui para apoiá-lo em cada linha de código.
 
 **Vamos programar juntos!** 🚀
