@@ -2,7 +2,7 @@
 title: "Hello World. I am Algoritmo Aberto_"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/avatar-sm.png"
 draft: false
 ---
 
