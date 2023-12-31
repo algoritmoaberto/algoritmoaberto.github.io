@@ -57,12 +57,13 @@ link = "https://www.instagram.com/algoritmoaberto/"
 # show_categories = true
 
 
+# Tela visual quando compartilha o link do site
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo", "Python"]
+keywords = ["Python", "Programação"]
 description = "Programação e Tecnologia"
-author = "zeon.studio"
+author = "Algoritmo Aberto"
 image = "images/og-image.png"
 
 
