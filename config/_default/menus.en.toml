@@ -53,6 +53,9 @@ url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 # footer menu
 # [[footer]]
+# name = "atendimento@algoritmoaberto.com.br"
+
+# [[footer]]
 # name = "About"
 # url = "about/"
 # weight = 1

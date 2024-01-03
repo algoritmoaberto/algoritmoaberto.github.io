@@ -1,9 +1,14 @@
 {
   "main": [
     {
-      "name": "youtube",
-      "icon": "fab fa-youtube",
-      "link": "https://www.youtube.com/channel/UCT2TggsUcI9ofSfPCzDn12Q"
+      "name": "whatsapp",
+      "icon": "fab fa-whatsapp",
+      "link": "https://api.whatsapp.com/send?phone=5511947649878"
+    },
+    {
+      "name": "envelope",
+      "icon": "fa-solid fa-envelope",
+      "link": "mailto:atendimento@algoritmoaberto.com.br"
     },
     {
       "name": "instagram",
