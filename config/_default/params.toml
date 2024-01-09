@@ -1,6 +1,7 @@
 #################### default parameters ################################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon.png"
+
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
 logo = "images/logo-lightmode.png"
 logo_darkmode = "images/logo-darkmode.png"
@@ -8,6 +9,7 @@ logo_darkmode = "images/logo-darkmode.png"
 # Note: logo_width is not work with .svg file
 logo_width = "260px"
 logo_height = "32px"
+# Tamanho do logo oficial
 # logo_width = "160px"
 # logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
@@ -16,11 +18,13 @@ logo_webp = true
 logo_text = "Hugoplate"
 # navbar fixed to top
 navbar_fixed = true
+
 # theme-mode
 theme_switcher = true
 theme_default = "dark" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
+
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
