@@ -18,35 +18,35 @@ weight = 2
 
 [[main]]
 weight = 4
-name = "Cursos"
+name = "Quero Aprender"
 hasChildren = true
 
 [[main]]
-parent = "Cursos"
+parent = "Quero Aprender"
 name = "Python"
 # url = "blog/"
 url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 [[main]]
-parent = "Cursos"
+parent = "Quero Aprender"
 name = "Hugo"
 # url = "contact/"
 url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 [[main]]
-parent = "Cursos"
+parent = "Quero Aprender"
 name = "SQL"
 # url = "authors/"
 url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 [[main]]
-parent = "Cursos"
-name = "Shell Script"
+parent = "Quero Aprender"
+name = "Git"
 # url = "categories/"
 url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 [[main]]
-parent = "Cursos"
+parent = "Quero Aprender"
 name = "Inglês"
 url = "https://www.udemy.com/user/algoritmo-aberto/"
 
