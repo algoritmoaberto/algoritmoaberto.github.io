@@ -7,7 +7,7 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Sobre"
+name = "Quem somos"
 url = "about/"
 weight = 2
 
@@ -24,14 +24,8 @@ hasChildren = true
 [[main]]
 parent = "Quero Aprender"
 name = "Python"
-# url = "blog/"
-url = "https://www.udemy.com/user/algoritmo-aberto/"
-
-[[main]]
-parent = "Quero Aprender"
-name = "Hugo"
-# url = "contact/"
-url = "https://www.udemy.com/user/algoritmo-aberto/"
+url = "blog/"
+# url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 [[main]]
 parent = "Quero Aprender"
@@ -42,13 +36,13 @@ url = "https://www.udemy.com/user/algoritmo-aberto/"
 [[main]]
 parent = "Quero Aprender"
 name = "Git"
-# url = "categories/"
-url = "https://www.udemy.com/user/algoritmo-aberto/"
+url = "categories/"
+# url = "git/"
 
 [[main]]
 parent = "Quero Aprender"
-name = "Inglês"
-url = "https://www.udemy.com/user/algoritmo-aberto/"
+name = "Ver Todos"
+url = "authors/"
 
 
 # footer menu
