@@ -24,8 +24,8 @@ hasChildren = true
 [[main]]
 parent = "Quero Aprender"
 name = "Python"
-url = "blog/"
-# url = "https://www.udemy.com/user/algoritmo-aberto/"
+# url = "blog/"
+url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 [[main]]
 parent = "Quero Aprender"
