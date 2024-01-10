@@ -12,14 +12,14 @@ banner:
 # Features
 features:
   - title: "Aprenda com o Algoritmo Aberto"
-    image: "/images/service-1.png"
+    # image: "/images/service-1.png"
+    image: "./images/aprenda.png"
     content: "Acreditamos que a programação pode ser acessível a todos. Oferecemos conteúdo didático, desde conceitos básicos até tópicos avançados, de maneira descomplicada."
     bulletpoints:
     - "Python"
+    - "Git"
     - "SQL"
-    - "Shell Script"
-    - "Inglês"
-
+    
       # - "100+ Pre-build pages"
       # - "95+ Google Pagespeed Score"
       # - "Build with Hugo and TailwindCSS for easy and customizable styling"
