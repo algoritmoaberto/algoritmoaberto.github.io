@@ -1,8 +1,8 @@
 ---
-title: "Hello World. I am Algoritmo Aberto_"
+title: "Hello World_"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar-sm.png"
+image: "gif/pato.gif"
 draft: false
 ---
 
