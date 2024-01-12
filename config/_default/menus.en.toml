@@ -7,7 +7,7 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Quem somos"
+name = "Sobre"
 url = "about/"
 weight = 2
 
@@ -18,29 +18,29 @@ weight = 2
 
 [[main]]
 weight = 4
-name = "Quero Aprender"
+name = "Cursos"
 hasChildren = true
 
 [[main]]
-parent = "Quero Aprender"
+parent = "Cursos"
 name = "Python"
 # url = "blog/"
 url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 [[main]]
-parent = "Quero Aprender"
+parent = "Cursos"
 name = "SQL"
 # url = "authors/"
 url = "https://www.udemy.com/user/algoritmo-aberto/"
 
 [[main]]
-parent = "Quero Aprender"
+parent = "Cursos"
 name = "Git"
 url = "categories/"
 # url = "git/"
 
 [[main]]
-parent = "Quero Aprender"
+parent = "Cursos"
 name = "Ver Todos"
 url = "authors/"
 
