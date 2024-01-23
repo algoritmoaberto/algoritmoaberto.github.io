@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Bem-vindo ao mundo da tecnologia e do código!"
+  title: "Hello World_"
   content: "Explore as últimas tendências em programação, mergulhe nas tecnologias do amanhã e descubra como transformar ideias em realidade digital."
   image: "/images/banner.png"
   button:
@@ -44,7 +44,7 @@ features:
       link: "https://www.instagram.com/algoritmoaberto/"
 
   - title: "As principais razões para escolher Algoritmo Aberto"
-    image: "/images/service-3.png"
+    image: "/gif/rocket.gif"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
       - "Foco em Habilidades Práticas para o Mercado de Trabalho."
