@@ -89,11 +89,11 @@ First you need to [clone](https://github.com/zeon-studio/hugoplate) or [download
 
 To start using this template, you need to have some prerequisites installed on your machine.
 
-🚫 INSTALAÇÃO PRECISA SER EM DIRETÓRIO QUE NÃO TEM ESPAÇO.
-EXEMPLO DE ERRO: Error: error building site: POSTCSS: failed to transform "css/style.css" (text/css): 'C:\Program' n o   reconhecido como um comando interno ou externo, um programa oper vel ou um arquivo em lotes.
+### 🚫 INSTALAÇÃO PRECISA SER EM DIRETÓRIO QUE NÃO TEM ESPAÇO.
+### EXEMPLO DE ERRO: Error: error building site: POSTCSS: failed to transform "css/style.css" (text/css): 'C:\Program' n o   reconhecido como um comando interno ou externo, um programa oper vel ou um arquivo em lotes.
 
-INSTALAÇÃO DO NODEJS FOI FEITA NO: C:\Program Files\nodejs (ERRO)
-INSTALAÇÃO PRECISA SER FEITA EM DIRETÓRIO SEM ESPAÇO: C:\nodejs (SUCESSO)
+### INSTALAÇÃO DO NODEJS FOI FEITA NO: C:\Program Files\nodejs (ERRO)
+### INSTALAÇÃO PRECISA SER FEITA EM DIRETÓRIO SEM ESPAÇO: C:\nodejs (SUCESSO)
 
 - [Hugo Extended v0.115+](https://gohugo.io/installation/)
 - [Node v18+](https://nodejs.org/en/download/)
