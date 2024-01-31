@@ -19,12 +19,12 @@
     "darkmode": {
       "theme_color": {
         "primary": "#fff",
-        "body": "#001a66",
-        "border": "#ffffff",
-        "header": "#00134d",
-        "footer": "#00134d",
-        "theme_light": "#00134d",
-        "theme_dark": "#000c33"
+        "body": "#000033",
+        "border": "#3E3E3E",
+        "header": "#0a0a29",
+        "footer": "#000033",
+        "theme_light": "#0a0a29",
+        "theme_dark": ""
       },
       "text_color": {
         "default": "#B4AFB6",
