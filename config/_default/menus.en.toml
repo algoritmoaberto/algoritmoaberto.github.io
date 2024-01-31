@@ -44,6 +44,11 @@ parent = "Cursos"
 name = "Ver Todos"
 url = "authors/"
 
+[[main]]
+name = "Vagas de Emprego"
+url = "elements/"
+weight = 5
+
 
 # footer menu
 # [[footer]]
