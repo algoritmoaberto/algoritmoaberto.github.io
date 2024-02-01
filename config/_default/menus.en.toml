@@ -16,37 +16,37 @@ weight = 2
 # url = "elements/"
 # weight = 3
 
-[[main]]
-weight = 4
-name = "Cursos"
-hasChildren = true
+# [[main]]
+# weight = 4
+# name = "Cursos"
+# hasChildren = true
 
-[[main]]
-parent = "Cursos"
-name = "Python"
-# url = "blog/"
-url = "https://www.udemy.com/user/algoritmo-aberto/"
-
-[[main]]
-parent = "Cursos"
-name = "SQL"
-# url = "authors/"
-url = "https://www.udemy.com/user/algoritmo-aberto/"
-
-[[main]]
-parent = "Cursos"
-name = "Git"
-url = "categories/"
-# url = "git/"
-
-[[main]]
-parent = "Cursos"
-name = "Ver Todos"
-url = "authors/"
+#[[main]]
+#parent = "Cursos"
+#name = "Python"
+## url = "blog/"
+#url = "https://www.udemy.com/user/algoritmo-aberto/"
+#
+#[[main]]
+#parent = "Cursos"
+#name = "SQL"
+## url = "authors/"
+#url = "https://www.udemy.com/user/algoritmo-aberto/"
+#
+#[[main]]
+#parent = "Cursos"
+#name = "Git"
+#url = "categories/"
+## url = "git/"
+#
+#[[main]]
+#parent = "Cursos"
+#name = "Ver Todos"
+#url = "authors/"
 
 [[main]]
 name = "Vagas de Emprego"
-url = "elements/"
+url = "vagas-emprego/"
 weight = 5
 
 
