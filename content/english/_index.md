@@ -6,13 +6,12 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Participar da comunidade"
+    label: "Entrar para comunidade"
     link: "https://www.instagram.com/algoritmoaberto/"
 
 # Features
 features:
   - title: "Aprenda com o Algoritmo Aberto"
-    # image: "/images/service-1.png"
     image: "./images/aprenda.png"
     content: "Acreditamos que a programação pode ser acessível a todos. Em breve, vamos oferecer conteúdo didático, desde conceitos básicos até tópicos avançados, de maneira descomplicada."
     bulletpoints:
@@ -20,30 +19,33 @@ features:
     - "Git"
     - "SQL"
     - Entre outros (Caso queira contribuir com temas, entrar em contato)
-    
+    button:
+      enable: false
+      label: "Cursos"
+      link: "https://www.instagram.com/algoritmoaberto/"
+   
       # - "100+ Pre-build pages"
       # - "95+ Google Pagespeed Score"
       # - "Build with Hugo and TailwindCSS for easy and customizable styling"
       # - "Fully responsive on all devices"
       # - "SEO-optimized for better search engine rankings"
       # - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Participar"
-      link: "https://www.instagram.com/algoritmoaberto/"
+    # button:
+    #   enable: true
+    #   label: "Participar"
+    #   link: "https://www.instagram.com/algoritmoaberto/"
 
-  - title: "Projetos e Desafios para inspirar"
+  - title: "Vagas de emprego"
     image: "/images/service-2.png"
-    # content: "Explore projetos e desafios práticos que vão inspirar sua jornada de aprendizado. Do básico ao avançado, você encontrará desafios que vão impulsionar o seu conhecimento em Python. Encontram-se nos sites:"
-    content: "Postagens com quiz de Python no Instagram para você evoluir."
+    content: "Estamos constantemente empenhado em contribuir para o crescimento e sucesso de outros desenvolvedores, tomamos a iniciativa de consolidar oportunidades de emprego relevantes com o objetivo de ajudar a comunidade a avançar em suas carreiras. Este esforço não apenas fortalece os laços dentro da comunidade, mas também proporciona uma valiosa fonte de informações para aqueles que buscam novas oportunidades profissionais."
     # bulletpoints:
     #   - "GitHub."
     #   - "Instagram."
     #   - "Udemy."
     button:
       enable: true
-      label: "Participar"
-      link: "https://www.instagram.com/algoritmoaberto/"
+      label: "Vagas"
+      link: "https://www.algoritmoaberto.com.br/vagas-emprego/"
 
   # - title: "As principais razões para escolher Algoritmo Aberto"
   #   image: "/gif/rocket.gif"
