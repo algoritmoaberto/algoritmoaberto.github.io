@@ -36,7 +36,8 @@ features:
     #   link: "https://www.instagram.com/algoritmoaberto/"
 
   - title: "Vagas de emprego"
-    image: "/images/service-2.png"
+    # image: "/images/service-2.png"
+    image: "gif/lookingforajob.gif"
     content: "Estamos constantemente empenhado em contribuir para o crescimento e sucesso de outros desenvolvedores, tomamos a iniciativa de consolidar oportunidades de emprego relevantes com o objetivo de ajudar a comunidade a avançar em suas carreiras. Este esforço não apenas fortalece os laços dentro da comunidade, mas também proporciona uma valiosa fonte de informações para aqueles que buscam novas oportunidades profissionais."
     # bulletpoints:
     #   - "GitHub."

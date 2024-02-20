@@ -21,7 +21,7 @@
         "primary": "#fff",
         "body": "#040406",
         "border": "#3E3E3E",
-        "header": "#000000",
+        "header": "#040406",
         "footer": "#000000",
         "theme_light": "#222222",
         "theme_dark": ""
