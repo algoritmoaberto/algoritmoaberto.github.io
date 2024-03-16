@@ -11,15 +11,31 @@ name = "Sobre"
 url = "about/"
 weight = 2
 
-# [[main]]
-# name = "Cursos"
-# url = "elements/"
-# weight = 3
+[[main]]
+weight = 3
+name = "Códigos"
+hasChildren = true
 
-# [[main]]
-# weight = 4
-# name = "Cursos"
-# hasChildren = true
+[[main]]
+parent = "Códigos"
+name = "Git"
+#url = "blog/"
+#url = "https://www.udemy.com/user/algoritmo-aberto/"
+
+[[main]]
+parent = "Códigos"
+name = "Python"
+#url = "blog/"
+#url = "https://www.udemy.com/user/algoritmo-aberto/"
+
+[[main]]
+name = "Vagas de Emprego"
+url = "vagas-emprego/"
+weight = 4
+
+
+
+
 
 #[[main]]
 #parent = "Cursos"
@@ -43,12 +59,6 @@ weight = 2
 #parent = "Cursos"
 #name = "Ver Todos"
 #url = "authors/"
-
-[[main]]
-name = "Vagas de Emprego"
-url = "vagas-emprego/"
-weight = 5
-
 
 # footer menu
 # [[footer]]
