@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "git",
+      "icon": "fa-brands fa-github",
+      "link": "/"
+    },
+    {
+      "name": "envelope",
+      "icon": "fa-solid fa-envelope",
+      "link": "mailto:atendimento@algoritmoaberto.com.br"
+    },
+    {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/algoritmoaberto/"
+    }
+  ]
+}

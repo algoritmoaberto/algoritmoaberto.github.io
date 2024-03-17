@@ -12,19 +12,24 @@ url = "about/"
 weight = 2
 
 [[main]]
+name = "Quero Aprender"
+url = "quero-aprender/"
 weight = 3
-name = "Códigos"
-hasChildren = true
 
-[[main]]
-parent = "Códigos"
-name = "Git"
+#[[main]]
+#name = "Quero Aprender"
+#hasChildren = true
+#weight = 3
+
+#[[main]]
+#parent = "Quero Aprender"
+#name = "Git"
 #url = "blog/"
 #url = "https://www.udemy.com/user/algoritmo-aberto/"
 
-[[main]]
-parent = "Códigos"
-name = "Python"
+#[[main]]
+#parent = "Quero Aprender"
+#name = "Python"
 #url = "blog/"
 #url = "https://www.udemy.com/user/algoritmo-aberto/"
 
