@@ -38,6 +38,20 @@ main {
   }
 }
 
+// curso icons
+.curso-icons {
+  @apply space-x-4;
+  li {
+    @apply inline-block;
+    a {
+      @apply bg-primary dark:bg-darkmode-primary dark:text-dark flex h-9 w-9 items-center justify-center rounded text-center leading-9 text-white;
+      svg {
+        @apply h-5 w-5;
+      }
+    }
+  }
+}
+
 // swiper pagination
 .swiper-pagination-bullet {
   @apply bg-theme-light dark:bg-darkmode-theme-light h-2.5 w-2.5 opacity-100 mx-1.5 #{!important};

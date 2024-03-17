@@ -1,9 +1,9 @@
 {
   "main": [
     {
-      "name": "git",
-      "icon": "fa-brands fa-github",
-      "link": "/"
+      "name": "whatsapp",
+      "icon": "fab fa-whatsapp",
+      "link": "https://api.whatsapp.com/send?phone=5511947649878"
     },
     {
       "name": "envelope",

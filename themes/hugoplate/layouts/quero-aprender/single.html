@@ -8,19 +8,19 @@
           {{ if $image }}
             {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mx-auto" "Size" "200x200") }}
           {{ else if .Params.Email }}
-            <img
+            <!-- <img
               class="mx-auto"
               alt="{{ .Title }}"
               height="200"
               width="200"
-              src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
+              src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" /> -->
           {{ end }}
           <h1 class="h3 mt-10">{{ .Title }}</h1>
           <div class="content mt-6">
             {{ .Content }}
           </div>
-          <ul class="social-icons ml-4 mt-10 text-center">
-            {{ range .Params.social }}
+          <ul class="curso-icons ml-4 mt-10 text-center">
+            {{ range .Params.curso }}
               <li>
                 <a
                   href="{{ .link | safeURL }}"
