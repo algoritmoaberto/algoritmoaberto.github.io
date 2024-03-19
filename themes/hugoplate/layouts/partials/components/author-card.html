@@ -2,7 +2,8 @@
   class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center">
   {{ $image:= .Params.image }}
   {{ if $image }}
-    {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mx-auto mb-6 rounded" "size" "12x12") }}
+  <!-- Imagem com link -->
+  <a href="{{ .RelPermalink }}">{{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mx-auto mb-6 rounded" "size" "12x12") }}</a>
   {{ else if .Params.Email }}
     <img
       class="mx-auto mb-6 rounded"
@@ -13,14 +14,13 @@
   {{ end }}
   <h4 class="mb-3">
     <!-- Title com link -->
-    <!-- <a href="{{ .RelPermalink }}">{{ .Title }}</a> -->
-    <a>{{ .Title }}</a>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </h4>
   <p class="mb-4">
     {{ .Summary }}
   </p>
-  <ul class="curso-icons">
-    {{ range .Params.curso }}
+  <ul class="social-icons">
+    {{ range .Params.social }}
       <li>
         <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow">
           <span class="sr-only">{{ .title }}</span>

@@ -19,8 +19,8 @@
           <div class="content mt-6">
             {{ .Content }}
           </div>
-          <ul class="curso-icons ml-4 mt-10 text-center">
-            {{ range .Params.curso }}
+          <!-- <ul class="social-icons ml-4 mt-10 text-center">
+            {{ range .Params.social }}
               <li>
                 <a
                   href="{{ .link | safeURL }}"
@@ -31,18 +31,18 @@
                 </a>
               </li>
             {{ end }}
-          </ul>
+          </ul> -->
         </div>
       </div>
 
-      <div class="row pb-16 pt-14">
+      <!-- <div class="row pb-16 pt-14">
         {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title }}
         {{ range $filterByAuthor }}
           <div class="md:col-6 lg:col-4 mb-12">
             {{ partial "components/blog-card" . }}
           </div>
         {{ end }}
-      </div>
+      </div> -->
     </div>
   </section>
 {{ end }}
