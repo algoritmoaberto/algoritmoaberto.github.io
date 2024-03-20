@@ -17,8 +17,11 @@ description: this is meta description
 #     link: https://linkedin.com
 ---
 
-<!-- Summary -->
+<!-- Descrição Card -->
 SQL (Structured Query Language) é uma linguagem de programação especializada projetada para gerenciar e manipular bancos de dados, tornou-se um padrão para interação com SGBD relacionais.
 
-<!-- Texto -->
+
+<!-- Descrição Page -->
 SQL é amplamente utilizado em bancos de dados relacionais populares, como MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server e SQLite. Sua natureza padrão facilita a portabilidade de comandos entre diferentes sistemas de gerenciamento de banco de dados, tornando-o uma ferramenta essencial para desenvolvedores e administradores de banco de dados.
+
+# Projeto Em Construção 🛠️

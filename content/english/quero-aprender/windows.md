@@ -17,5 +17,8 @@ description: this is meta description
 #     link: https://linkedin.com
 ---
 
-<!-- Summary -->
-Windows é uma família de sistemas operacionais desenvolvidos pela Microsoft, o termo "Windows" geralmente se refere ao sistema operacional para computadores pessoais, servidores e dispositivos embutidos.
+<!-- Descrição Card -->
+ Windows é um sistema operacional desenvolvido pela Microsoft, um dos sistemas operacionais mais amplamente utilizados em computadores pessoais e em muitos ambientes corporativos. 
+
+<!-- Descrição Page -->
+# Projeto Em Construção 🛠️
