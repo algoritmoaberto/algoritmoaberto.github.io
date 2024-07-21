@@ -16,6 +16,11 @@ name = "Quero Aprender"
 url = "quero-aprender/"
 weight = 3
 
+[[main]]
+name = "Desafios"
+url = "desafios/"
+weight = 4
+
 #[[main]]
 #name = "Quero Aprender"
 #hasChildren = true
@@ -36,7 +41,7 @@ weight = 3
 [[main]]
 name = "Vagas de Emprego"
 url = "vagas-emprego/"
-weight = 4
+weight = 5
 
 
 
