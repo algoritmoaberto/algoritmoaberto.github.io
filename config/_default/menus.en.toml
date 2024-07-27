@@ -16,10 +16,10 @@ name = "Quero Aprender"
 url = "quero-aprender/"
 weight = 3
 
-[[main]]
-name = "Desafios"
-url = "desafios/"
-weight = 4
+#[main]]
+#name = "Desafios"
+#url = "desafios/"
+#weight = 4
 
 #[[main]]
 #name = "Quero Aprender"

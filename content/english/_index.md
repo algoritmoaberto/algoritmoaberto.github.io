@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Hello World_"
-  content: "Explore as últimas tendências em programação, mergulhe nas tecnologias do amanhã e descubra como transformar ideias em realidade digital."
+  content: "Construa seu futuro com programação e alcance um mundo de possibilidades."
   image: "/images/banner.png"
   button:
     enable: true
