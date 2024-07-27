@@ -12,7 +12,7 @@ Você é apaixonado por programação? Quer testar suas habilidades em Python e 
 
 📅 Data: 27/07 <br>
 ⏰ Horário: 14:00 <br>
-💰 Prêmio: R$50,00 em voucher no Ifood<br>
+💰 Prêmio: R$50,00 em voucher no Ifood <br>
 📌 Totalmente online e gratuito <br>
 <br>
 
