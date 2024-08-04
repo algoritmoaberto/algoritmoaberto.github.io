@@ -18,20 +18,46 @@ Não somos responsáveis pelas vagas de emprego! Estamos pesquisando e consolida
 
 {{< accordion "Estágio" >}}
 
-- [Empresa Somat - Programa de Estágio Somar 2024](https://somat.gupy.io/job/eyJqb2JJZCI6NjY5NjY2Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Stefanini - Estagio TI - Suporte N1](https://stefanini.gupy.io/job/eyJqb2JJZCI6NjcwMzExNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Energisa - ESTAGIO - TI](https://estagioenergisa.gupy.io/job/eyJqb2JJZCI6NjY0OTE2OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Arklok - Estagiário de T.I.](https://arkloktecnologia.gupy.io/job/eyJqb2JJZCI6NjcwMTk5NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Michelin Connected Fleet - Programa de Estágio Michelin Connected Fleet 2024](https://www.vagas.com.br/vagas/v2607956/programa-de-estagio-michelin-connected-fleet-2024)
-- [Empresa Sompo Seguros - Programa de Estágio](https://www.vagas.com.br/vagas/v2607664/estagiario)
-- [Empresa Unimed Campinas - Vagas de Estágio 2024](https://www.vagas.com.br/vagas/v2595988/vagas-de-estagio-2024)
-- [Empresa ArcelorMittal - Estágio em TI - SAP Hr](https://www.vagas.com.br/vagas/v2605505/estagio-em-ti-sap-hr)
-- [Empresa ArcelorMittal - Estágio em TI - Suporte e Desenvolvimento de Sistemas](https://www.vagas.com.br/vagas/v2605500/estagio-em-ti-suporte-e-desenvolvimento-de-sistemas)
-- [Empresa Rádio Itatiaia - Estágio em Operações](https://www.vagas.com.br/vagas/v2605613/estagio-em-operacoes)
+- [Empresa Honda - Estágio TI](https://honda.gupy.io/job/eyJqb2JJZCI6NzU1MjI3Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa EBAC - Estágio em TI](https://ebac.gupy.io/job/eyJqb2JJZCI6NzU2MTU0OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Sencinet - Estágio em Operações de TI](https://sencinetbrasil.gupy.io/job/eyJqb2JJZCI6NzU0NDcwMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Nexa - GOVERNANÇA | ESTÁGIO TI](https://nexatecnologia.gupy.io/job/eyJqb2JJZCI6NzUxMzUyOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Honda - Estágio TI - Desenvolvimento](https://honda.gupy.io/job/eyJqb2JJZCI6NzQwNTY1NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa T-Systems - Estágio em TI](https://t-systems.gupy.io/job/eyJqb2JJZCI6NzQ5MjYzMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Cinemark - Estágio de TI com ênfase em QA](https://cinemark.gupy.io/job/eyJqb2JJZCI6NzQ5MjMxMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Solinftec - ESTÁGIO INFRAESTRUTURA TI](https://solinftec.gupy.io/job/eyJqb2JJZCI6NzQ1ODUzMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa RENNER - Estágio em TI](https://encantech.gupy.io/job/eyJqb2JJZCI6NzQ1MjA2OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Saint-Gobain - Estágio em TI](https://saintgobainbrasil.gupy.io/job/eyJqb2JJZCI6NzQzOTg2Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Saint-Gobain - Estágio Universitário TI Suporte Usuário](https://saintgobainbrasil.gupy.io/job/eyJqb2JJZCI6NzQzOTg2Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Grupo Solví - Estágio em TI - RPA](https://programaestagiosolvi.gupy.io/job/eyJqb2JJZCI6NzMyNzI4Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa MRO - ESTÁGIO - TI](https://mroativa.gupy.io/job/eyJqb2JJZCI6NzI1MTcyMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa T- Systems - Estágio em Dellivery Excellence](https://www.vagas.com.br/vagas/v2665931/estagio-em-dellivery-excellence)
+- [Empresa Kantar Ibope Media - Estágio](https://www.vagas.com.br/vagas/v2665450/estagio-p-ciencias-da-computacao-processamento-de-dados-analise-de-sistemas-e-correlatos-uniestacio)
+- [Empresa Usina Cerradão - Programa de Estágio](https://www.vagas.com.br/vagas/v2665229/programa-de-estagio-cerradao-colhendo-novos-talentos)
+- [Empresa Huawei - Estagiário de Software e TI](https://www.vagas.com.br/vagas/v2664881/estagiario-de-software-e-ti-brazil-software-business-dept)
+- [Empresa Tecfil Filtros - Estágio em TI](https://www.vagas.com.br/vagas/v2664751/estagio-em-t-i)
+- [Empresa CSN - Estagiário TI - Sistemas](https://www.vagas.com.br/vagas/v2664452/estagiario-ti-sistemas)
+- [Empresa FI GROUP - Estágio](https://www.vagas.com.br/vagas/v2664444/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao)
+- [Empresa Prime Interway - Estágio em Ux/Ui](https://www.vagas.com.br/vagas/v2664497/estagio-em-ux-ui)
+- [Empresa EPTV - Estágio em TI](https://www.vagas.com.br/vagas/v2664015/estagio-em-t-i)
+- [Empresa DP World Santos - Estágio - Tecnologia da Informação (Infraestrutura)](https://www.vagas.com.br/vagas/v2663658/estagio-tecnologia-da-informacao-infraestrutura)
+- [Empresa Huawei - Estagiário de Inteligência de Dados](https://www.vagas.com.br/vagas/v2663353/estagiario-de-inteligencia-de)
+- [Empresa Huawei - Estagiario em Telecomunicações](https://www.vagas.com.br/vagas/v2662957/estagiario-em-telecomunicacoes)
+- [Empresa Huawei - Estagiário de Network Technology (Ntd)](https://www.vagas.com.br/vagas/v2662583/estagiario-de-network-technology-ntd)
+- [Empresa OFFICE TOTAL S/A - Estagio Técnico em TI](https://www.vagas.com.br/vagas/v2662218/estagio-tecnico-em-ti)
+- [Empresa Instituto Via de Acesso - Estágio em TI - SPTURIS](https://www.vagas.com.br/vagas/v2661755/estagio-em-ti-spturis)
+- [Empresa Rede Cidadã - Estágio TI (Suporte)](https://www.vagas.com.br/vagas/v2660868/estagio-ti-suporte)
+- [Empresa EDITORA GLOBO - Estagiário de Segurança da Informação](https://www.vagas.com.br/vagas/v2660381/estagiario-de-seguranca-da-informacao)
+- [Empresa ArcelorMittal Gonvarri - Estágio em Tecnologia da Informação – TI](https://www.vagas.com.br/vagas/v2659923/estagio-em-tecnologia-da-informacao-ti)
+- [Empresa EDITORA GLOBO - Estagiário(a) de Bi](https://www.vagas.com.br/vagas/v2659308/estagiario-a-de-bi)
+
+<!-- - [Empresa XXX - XXX](https) -->
+
+
 
 {{< /accordion >}}
 
-{{< accordion "Efetivo" >}}
+<!-- {{< accordion "Efetivo" >}}
 
 - [Empresa Itaú - ANL ENGENHARIA TI SR - PRIVATE](https://vemproitau.gupy.io/job/eyJqb2JJZCI6NjY1ODI2OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
 - [Empresa Alper Carreiras - ANALISTA INFRAESTRUTURA TI I](https://alpercarreiras.gupy.io/job/eyJqb2JJZCI6NjYxNTE1MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
@@ -60,4 +86,4 @@ Não somos responsáveis pelas vagas de emprego! Estamos pesquisando e consolida
 - [Empresa RTM - Analista de Infraestrutura Jr.](https://www.vagas.com.br/vagas/v2607109/analista-de-infraestrutura-jr)
 - [Empresa TOTVS - Especialista Fullstack](https://www.vagas.com.br/vagas/v2607029/especialista-fullstack)
 
-{{< /accordion >}}
+{{< /accordion >}} -->
