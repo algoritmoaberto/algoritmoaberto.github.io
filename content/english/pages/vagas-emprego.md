@@ -13,11 +13,21 @@ Não somos responsáveis pelas vagas de emprego! Estamos pesquisando e consolida
 {{< /notice >}}
 
 <!-- <hr> -->
-
 <!-- ### Estágio -->
 
-{{< accordion "Estágio" >}}
+<!-- - [Empresa XXX - XXX](https) -->
 
+{{< accordion "Estágio 1" >}}
+- [Empresa Honda (Sumaré) - Estágio Arquitetura TI](https://honda.gupy.io/job/eyJqb2JJZCI6NzUwMDUyOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Algar Telecom - Pessoa Estagiária na Tribo TI CORPORATIVA](https://algartelecom.gupy.io/job/eyJqb2JJZCI6NzQ3MjA2OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa T-Systems - ESTÁGIO ADMINISTRATIVO EM TI](https://t-systems.gupy.io/job/eyJqb2JJZCI6NzYwMjU0MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Villela - Estágio TI Redes](https://villelabrasilbank.gupy.io/job/eyJqb2JJZCI6NzU5OTYwNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Honda - Estágio TI Cyber Segurança](https://honda.gupy.io/job/eyJqb2JJZCI6NzU1MzA3OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Peça Forte - Estágio de TI Integração de Sistemas](https://gruporeal.gupy.io/job/eyJqb2JJZCI6NzU5NzQ3Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Henry Schein - Estágio em Suporte Técnico TI](https://henryschein.gupy.io/job/eyJqb2JJZCI6NzU5NDAzNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Teltec Solutions - Pessoa Estagiária de TI](https://teltecsolutions.gupy.io/job/eyJqb2JJZCI6NzU2NjUzOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Honda (Sumaré) - Estágio TI](https://honda.gupy.io/job/eyJqb2JJZCI6NzU1MzA3NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+- [Empresa Honda (Morumbi) - Estágio TI](https://honda.gupy.io/job/eyJqb2JJZCI6NzU1MjI3Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
 - [Empresa Honda - Estágio TI](https://honda.gupy.io/job/eyJqb2JJZCI6NzU1MjI3Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
 - [Empresa EBAC - Estágio em TI](https://ebac.gupy.io/job/eyJqb2JJZCI6NzU2MTU0OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
 - [Empresa Sencinet - Estágio em Operações de TI](https://sencinetbrasil.gupy.io/job/eyJqb2JJZCI6NzU0NDcwMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
@@ -27,6 +37,8 @@ Não somos responsáveis pelas vagas de emprego! Estamos pesquisando e consolida
 - [Empresa Cinemark - Estágio de TI com ênfase em QA](https://cinemark.gupy.io/job/eyJqb2JJZCI6NzQ5MjMxMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
 - [Empresa Solinftec - ESTÁGIO INFRAESTRUTURA TI](https://solinftec.gupy.io/job/eyJqb2JJZCI6NzQ1ODUzMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
 - [Empresa RENNER - Estágio em TI](https://encantech.gupy.io/job/eyJqb2JJZCI6NzQ1MjA2OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+{{< /accordion >}}
+{{< accordion "Estágio 2" >}}
 - [Empresa Saint-Gobain - Estágio em TI](https://saintgobainbrasil.gupy.io/job/eyJqb2JJZCI6NzQzOTg2Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
 - [Empresa Saint-Gobain - Estágio Universitário TI Suporte Usuário](https://saintgobainbrasil.gupy.io/job/eyJqb2JJZCI6NzQzOTg2Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
 - [Empresa Grupo Solví - Estágio em TI - RPA](https://programaestagiosolvi.gupy.io/job/eyJqb2JJZCI6NzMyNzI4Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
@@ -46,15 +58,20 @@ Não somos responsáveis pelas vagas de emprego! Estamos pesquisando e consolida
 - [Empresa Huawei - Estagiário de Network Technology (Ntd)](https://www.vagas.com.br/vagas/v2662583/estagiario-de-network-technology-ntd)
 - [Empresa OFFICE TOTAL S/A - Estagio Técnico em TI](https://www.vagas.com.br/vagas/v2662218/estagio-tecnico-em-ti)
 - [Empresa Instituto Via de Acesso - Estágio em TI - SPTURIS](https://www.vagas.com.br/vagas/v2661755/estagio-em-ti-spturis)
+{{< /accordion >}}
+{{< accordion "Estágio 3" >}}
+- [Empresa Hyundai - Estágio Service Desk](https://www.vagas.com.br/vagas/v2669416/estagio-service-desk)
+- [Empresa OFFICE TOTAL S/A - Estagio Técnico em TI](https://www.vagas.com.br/vagas/v2669574/estagio-tecnico-em-ti)
+- [Empresa Huawei - Estagiario em Gerenciamento de Projetos](https://www.vagas.com.br/vagas/v2668710/estagiario-em-gerenciamento-de-projetos-delivery)
+- [Empresa Cultura Inglesa - Estágio TI](https://www.vagas.com.br/vagas/v2668369/estagio-ti)
+- [Empresa Reckitt - Estágio em It&digital](https://www.vagas.com.br/vagas/v2667986/estagio-em-it-digital-reckitt-comercial)
+- [Empresa Huawei - Estagiário de Operações Técnicas](https://www.vagas.com.br/vagas/v2668069/estagiario-de-operacoes-tecnicas)
+- [Empresa Hyundai - Programa de Estágio](https://www.vagas.com.br/vagas/v2666793/programa-de-estagio-1s2025-hyundai-motor-brasil)
 - [Empresa Rede Cidadã - Estágio TI (Suporte)](https://www.vagas.com.br/vagas/v2660868/estagio-ti-suporte)
 - [Empresa EDITORA GLOBO - Estagiário de Segurança da Informação](https://www.vagas.com.br/vagas/v2660381/estagiario-de-seguranca-da-informacao)
 - [Empresa ArcelorMittal Gonvarri - Estágio em Tecnologia da Informação – TI](https://www.vagas.com.br/vagas/v2659923/estagio-em-tecnologia-da-informacao-ti)
-- [Empresa EDITORA GLOBO - Estagiário(a) de Bi](https://www.vagas.com.br/vagas/v2659308/estagiario-a-de-bi)
-
+- [Empresa EDITORA GLOBO - Estagiário(a) de BI](https://www.vagas.com.br/vagas/v2659308/estagiario-a-de-bi)
 <!-- - [Empresa XXX - XXX](https) -->
-
-
-
 {{< /accordion >}}
 
 <!-- {{< accordion "Efetivo" >}}
