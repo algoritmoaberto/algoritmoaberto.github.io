@@ -18,6 +18,7 @@ Não somos responsáveis pelas vagas de emprego! Estamos pesquisando e consolida
 <!-- - [Empresa XXX - XXX](https) -->
 
 
+
 {{< accordion "Estágio 1" >}}
 - [Empresa Honda (Sumaré) - Estágio Arquitetura TI](https://honda.gupy.io/job/eyJqb2JJZCI6NzUwMDUyOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
 - [Empresa Algar Telecom - Pessoa Estagiária na Tribo TI CORPORATIVA](https://algartelecom.gupy.io/job/eyJqb2JJZCI6NzQ3MjA2OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
