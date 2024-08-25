@@ -13,12 +13,9 @@ Não somos responsáveis pelas vagas de emprego! Estamos pesquisando e consolida
 {{< /notice >}}
 
 <!-- <hr> -->
-
 <!-- ### Estágio -->
 
-
 <!-- - [Empresa XXX - XXX](https) -->
-
 
 {{< accordion "Estágio 1" >}}
 - [Empresa Honda (Sumaré) - Estágio Arquitetura TI](https://honda.gupy.io/job/eyJqb2JJZCI6NzUwMDUyOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
