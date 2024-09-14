@@ -3,7 +3,7 @@ title: Linux
 # email: williamjacob@email.com
 image: "/images/cursos/linux.png"
 description: this is meta description
-weight: 3
+weight: 4
 # social:
 #   - name: github
 #     icon: fa-brands fa-github

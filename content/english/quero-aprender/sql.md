@@ -3,6 +3,8 @@ title: SQL
 # email: williamjacob@email.com
 image: "/images/cursos/sql.png"
 description: this is meta description
+weight: 2
+
 # social:
 #   - name: github
 #     icon: fa-brands fa-github

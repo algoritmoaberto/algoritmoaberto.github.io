@@ -1,9 +1,9 @@
 ---
-title: Git e GitHub
+title: Git
 # email: samwilson@email.com
 image: "/images/cursos/git.png"
 # description: this is meta description
-weight: 1
+weight: 3
 # social:
 #   - name: git
 #     icon: fab fa-github

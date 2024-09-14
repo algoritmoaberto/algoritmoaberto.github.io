@@ -1,9 +1,9 @@
 ---
-title: Windows
+title: Terraform
 # email: williamjacob@email.com
-image: "/images/cursos/windows.png"
+image: "/images/cursos/terraform.png"
 description: this is meta description
-weight: 5
+weight: 7
 # social:
 #   - name: github
 #     icon: fa-brands fa-github
@@ -19,7 +19,7 @@ weight: 5
 ---
 
 <!-- Descrição Card -->
- Windows é um sistema operacional desenvolvido pela Microsoft, um dos sistemas operacionais mais amplamente utilizados em computadores pessoais e em muitos ambientes corporativos. 
+O Terraform é uma ferramenta de software de infraestrutura como código, criada pela HashiCorp, que permite provisionar e gerenciar infraestrutura com segurança e previsibilidade em qualquer nuvem.
 
 <!-- Descrição Page -->
 # Projeto Em Construção 🛠️

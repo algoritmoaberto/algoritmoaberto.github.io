@@ -1,9 +1,9 @@
 ---
-title: Windows
+title: MySQL
 # email: williamjacob@email.com
-image: "/images/cursos/windows.png"
+image: "/images/cursos/mysql.png"
 description: this is meta description
-weight: 5
+weight: 8
 # social:
 #   - name: github
 #     icon: fa-brands fa-github
@@ -19,7 +19,7 @@ weight: 5
 ---
 
 <!-- Descrição Card -->
- Windows é um sistema operacional desenvolvido pela Microsoft, um dos sistemas operacionais mais amplamente utilizados em computadores pessoais e em muitos ambientes corporativos. 
+O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface, é atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation.
 
 <!-- Descrição Page -->
 # Projeto Em Construção 🛠️

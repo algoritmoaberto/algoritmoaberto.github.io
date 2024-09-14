@@ -1,5 +1,5 @@
 ---
-title: "Engenharia de Software Descomplicada: Guia do Iniciante"
+title: "Engenharia de TI: Guia do Iniciante"
 ---
 
 <!-- Bem-vindo ao curso "Engenharia de Software Descomplicada: Guia do Iniciante"! Este curso foi cuidadosamente projetado para ajudar você a dar os primeiros passos na emocionante jornada da engenharia de software.

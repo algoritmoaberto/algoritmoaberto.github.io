@@ -1,9 +1,9 @@
 ---
-title: Windows
+title: PosgreSQL
 # email: williamjacob@email.com
-image: "/images/cursos/windows.png"
+image: "/images/cursos/postgresql.png"
 description: this is meta description
-weight: 5
+weight: 9
 # social:
 #   - name: github
 #     icon: fa-brands fa-github
@@ -19,7 +19,7 @@ weight: 5
 ---
 
 <!-- Descrição Card -->
- Windows é um sistema operacional desenvolvido pela Microsoft, um dos sistemas operacionais mais amplamente utilizados em computadores pessoais e em muitos ambientes corporativos. 
+O PostgreSQL é um poderoso sistema de banco de dados de código aberto, com mais de 35 anos de desenvolvimento ativo, o que lhe rendeu uma forte reputação de confiabilidade, robustez de recursos e desempenho.
 
 <!-- Descrição Page -->
 # Projeto Em Construção 🛠️

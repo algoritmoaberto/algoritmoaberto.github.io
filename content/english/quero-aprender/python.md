@@ -3,7 +3,7 @@ title: Python
 # email: johndoe@email.com
 image: "/images/cursos/python.png"
 description: "this is meta description"
-weight: 2
+weight: 1
 # social:
 #   - name: github
 #     icon: fa-brands fa-github

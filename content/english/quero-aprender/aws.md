@@ -1,9 +1,9 @@
 ---
-title: Windows
+title: AWS
 # email: williamjacob@email.com
-image: "/images/cursos/windows.png"
+image: "/images/cursos/aws.png"
 description: this is meta description
-weight: 5
+weight: 6
 # social:
 #   - name: github
 #     icon: fa-brands fa-github
@@ -19,7 +19,7 @@ weight: 5
 ---
 
 <!-- Descrição Card -->
- Windows é um sistema operacional desenvolvido pela Microsoft, um dos sistemas operacionais mais amplamente utilizados em computadores pessoais e em muitos ambientes corporativos. 
+A Amazon Web Services (AWS) é a plataforma de nuvem mais adotada e mais abrangente do mundo, oferecendo mais de 200 serviços completos de datacenters em todo o mundo, empresa de computação em nuvem.
 
 <!-- Descrição Page -->
 # Projeto Em Construção 🛠️
