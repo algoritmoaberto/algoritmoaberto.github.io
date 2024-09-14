@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Hello World_"
-  content: "Construa seu futuro com programação e alcance um mundo de possibilidades."
+  content: "Construa seu futuro com habilidades em TI e alcance um mundo de possibilidades."
   image: "/images/banner.png"
   button:
     enable: true
@@ -17,8 +17,9 @@ features:
     bulletpoints:
     - "Python"
     - "Git"
-    - "SQL"
-    - Entre outros (Caso queira contribuir com temas, entrar em contato)
+    - "Terraform"
+    - "Computação em Nuvem"
+    - "Banco de Dados"
     button:
       enable: false
       label: "Cursos"
