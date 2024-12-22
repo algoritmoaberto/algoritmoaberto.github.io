@@ -9,7 +9,7 @@ draft: false
 ---
 
 {{< notice "info" >}}
-Não somos responsáveis pelas vagas de emprego! Estamos pesquisando e consolidando as vagas, aqui, para ajudar a comunidade.
+Nós não somos responsáveis pelas vagas de emprego! Estamos pesquisando e consolidando as vagas para ajudar a comunidade.
 {{< /notice >}}
 
 <!-- <hr> -->
@@ -17,62 +17,110 @@ Não somos responsáveis pelas vagas de emprego! Estamos pesquisando e consolida
 
 <!-- - [Empresa XXX - XXX](https) -->
 
-{{< accordion "Estágio 1" >}}
-- [Empresa Honda (Sumaré) - Estágio Arquitetura TI](https://honda.gupy.io/job/eyJqb2JJZCI6NzUwMDUyOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Algar Telecom - Pessoa Estagiária na Tribo TI CORPORATIVA](https://algartelecom.gupy.io/job/eyJqb2JJZCI6NzQ3MjA2OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa T-Systems - ESTÁGIO ADMINISTRATIVO EM TI](https://t-systems.gupy.io/job/eyJqb2JJZCI6NzYwMjU0MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Villela - Estágio TI Redes](https://villelabrasilbank.gupy.io/job/eyJqb2JJZCI6NzU5OTYwNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Honda - Estágio TI Cyber Segurança](https://honda.gupy.io/job/eyJqb2JJZCI6NzU1MzA3OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Peça Forte - Estágio de TI Integração de Sistemas](https://gruporeal.gupy.io/job/eyJqb2JJZCI6NzU5NzQ3Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Henry Schein - Estágio em Suporte Técnico TI](https://henryschein.gupy.io/job/eyJqb2JJZCI6NzU5NDAzNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Teltec Solutions - Pessoa Estagiária de TI](https://teltecsolutions.gupy.io/job/eyJqb2JJZCI6NzU2NjUzOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Honda (Sumaré) - Estágio TI](https://honda.gupy.io/job/eyJqb2JJZCI6NzU1MzA3NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Honda (Morumbi) - Estágio TI](https://honda.gupy.io/job/eyJqb2JJZCI6NzU1MjI3Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Honda - Estágio TI](https://honda.gupy.io/job/eyJqb2JJZCI6NzU1MjI3Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa EBAC - Estágio em TI](https://ebac.gupy.io/job/eyJqb2JJZCI6NzU2MTU0OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Sencinet - Estágio em Operações de TI](https://sencinetbrasil.gupy.io/job/eyJqb2JJZCI6NzU0NDcwMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Nexa - GOVERNANÇA | ESTÁGIO TI](https://nexatecnologia.gupy.io/job/eyJqb2JJZCI6NzUxMzUyOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Honda - Estágio TI - Desenvolvimento](https://honda.gupy.io/job/eyJqb2JJZCI6NzQwNTY1NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa T-Systems - Estágio em TI](https://t-systems.gupy.io/job/eyJqb2JJZCI6NzQ5MjYzMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Cinemark - Estágio de TI com ênfase em QA](https://cinemark.gupy.io/job/eyJqb2JJZCI6NzQ5MjMxMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Solinftec - ESTÁGIO INFRAESTRUTURA TI](https://solinftec.gupy.io/job/eyJqb2JJZCI6NzQ1ODUzMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa RENNER - Estágio em TI](https://encantech.gupy.io/job/eyJqb2JJZCI6NzQ1MjA2OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+{{< accordion "Estágio" >}}
+
+- [Empresa Across futuros convergentes - Estágio Iveco](https://www.vagas.com.br/vagas/v2703079/estagio-iveco)
+- [Empresa CSN CIMENTOS - Estágio](https://www.vagas.com.br/vagas/v2702577/estagio-nivel-superior)
+- [Empresa UniBH - Estagiário Suporte de TI ](https://www.vagas.com.br/vagas/v2702215/estagiario-suporte-de-ti-unibh)
+- [Empresa Hyundai AutoEver Brasil - Programa de Estágio](https://www.vagas.com.br/vagas/v2702135/programa-de-estagio)
+- [Empresa DP World Santos - Estágio de Planejamento Operacional](https://www.vagas.com.br/vagas/v2701900/estagio-de-planejamento-operacional)
+- [Empresa EDI-LABS - Estágio](https://www.vagas.com.br/vagas/v2702027/estagio-em-tecnologia-da-informacao-analise-de-sistemas-eng-de-dados-ia-ciencia-da-computacao-edi-labs)
+- [Empresa Huawei - Estágio Suporte e Desenvolvimento em TI](https://www.vagas.com.br/vagas/v2701421/estagio-suporte-e-desenvolvimento-em-ti)
+- [Empresa DP World Santos - Estágio TI](https://www.vagas.com.br/vagas/v2701619/estagio-ti)
+- [Empresa Hyundai Motor Brasil - Estagiário de Business Intelligence](https://www.vagas.com.br/vagas/v2701057/estagiario-de-business-intelligence)
+- [Empresa Cultura Inglesa - Estágio TI](https://www.vagas.com.br/vagas/v2700258/estagio-ti)
+- [Empresa Huawei - Estágio TI](https://www.vagas.com.br/vagas/v2699534/estagio-em-ti)
+- [Empresa TransUnion - Estágio em Implantação de Sistemas](https://www.vagas.com.br/vagas/v2699012/estagio-em-implantacao-de-sistemas)
+- [Empresa FI GROUP - Estágio TI](https://www.vagas.com.br/vagas/v2683779/estagio-em-ti-consultoria-tecnica-italiano-fluente)
+- [Empresa Grupo Águas do Brasil - Programa de Estágio 2025.1](https://www.vagas.com.br/vagas/v2696512/programa-de-estagio-2025-1-aguas-de-agulhas-negras)
+- [Empresa Huawei - Estágio TI](https://www.vagas.com.br/vagas/v2698128/estagio-em-ti)
+- [Empresa CNH Industrial - Estágio em It Corporate Latam](https://www.vagas.com.br/vagas/v2697873/estagio-em-it-corporate-latam)
+
 {{< /accordion >}}
-{{< accordion "Estágio 2" >}}
-- [Empresa Saint-Gobain - Estágio em TI](https://saintgobainbrasil.gupy.io/job/eyJqb2JJZCI6NzQzOTg2Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Saint-Gobain - Estágio Universitário TI Suporte Usuário](https://saintgobainbrasil.gupy.io/job/eyJqb2JJZCI6NzQzOTg2Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa Grupo Solví - Estágio em TI - RPA](https://programaestagiosolvi.gupy.io/job/eyJqb2JJZCI6NzMyNzI4Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa MRO - ESTÁGIO - TI](https://mroativa.gupy.io/job/eyJqb2JJZCI6NzI1MTcyMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-- [Empresa T- Systems - Estágio em Dellivery Excellence](https://www.vagas.com.br/vagas/v2665931/estagio-em-dellivery-excellence)
-- [Empresa Kantar Ibope Media - Estágio](https://www.vagas.com.br/vagas/v2665450/estagio-p-ciencias-da-computacao-processamento-de-dados-analise-de-sistemas-e-correlatos-uniestacio)
-- [Empresa Usina Cerradão - Programa de Estágio](https://www.vagas.com.br/vagas/v2665229/programa-de-estagio-cerradao-colhendo-novos-talentos)
-- [Empresa Huawei - Estagiário de Software e TI](https://www.vagas.com.br/vagas/v2664881/estagiario-de-software-e-ti-brazil-software-business-dept)
-- [Empresa Tecfil Filtros - Estágio em TI](https://www.vagas.com.br/vagas/v2664751/estagio-em-t-i)
-- [Empresa CSN - Estagiário TI - Sistemas](https://www.vagas.com.br/vagas/v2664452/estagiario-ti-sistemas)
-- [Empresa FI GROUP - Estágio](https://www.vagas.com.br/vagas/v2664444/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao)
-- [Empresa Prime Interway - Estágio em Ux/Ui](https://www.vagas.com.br/vagas/v2664497/estagio-em-ux-ui)
-- [Empresa EPTV - Estágio em TI](https://www.vagas.com.br/vagas/v2664015/estagio-em-t-i)
-- [Empresa DP World Santos - Estágio - Tecnologia da Informação (Infraestrutura)](https://www.vagas.com.br/vagas/v2663658/estagio-tecnologia-da-informacao-infraestrutura)
-- [Empresa Huawei - Estagiário de Inteligência de Dados](https://www.vagas.com.br/vagas/v2663353/estagiario-de-inteligencia-de)
-- [Empresa Huawei - Estagiario em Telecomunicações](https://www.vagas.com.br/vagas/v2662957/estagiario-em-telecomunicacoes)
-- [Empresa Huawei - Estagiário de Network Technology (Ntd)](https://www.vagas.com.br/vagas/v2662583/estagiario-de-network-technology-ntd)
-- [Empresa OFFICE TOTAL S/A - Estagio Técnico em TI](https://www.vagas.com.br/vagas/v2662218/estagio-tecnico-em-ti)
-- [Empresa Instituto Via de Acesso - Estágio em TI - SPTURIS](https://www.vagas.com.br/vagas/v2661755/estagio-em-ti-spturis)
+
+
+<!-- ------------------------------------------>
+<!-- ------------------------------------------>
+<!-- ------------------------------------------>
+<!-- ------------------------------------------>
+
+
+{{< accordion "Assistente/Auxiliar" >}}
+
+- [Empresa SGR  - Assistente de Recursos Humanos (Dados)](https://www.vagas.com.br/vagas/v2702103/assistente-de-recursos-humanos-dados)
+- [Empresa Sillion Serviços de Tecnologia LTDA - Assistente de Produção](https://www.vagas.com.br/vagas/v2701164/assistente-de-producao)
+- [Empresa Veolink - Assistente de Suporte Técnico](https://www.vagas.com.br/vagas/v2699413/assistente-de-suporte-tecnico)
+- [Empresa FEMSA - Coca Cola - Assistente Customer Service](https://www.vagas.com.br/vagas/v2703055/assistente-customer-service)
+- [Empresa OceanPact Serviços Maritimos S.A - Tecnico de Suporte TI](https://www.vagas.com.br/vagas/v2702906/tecnico-de-suporte-ti)
+- [Empresa Instituto Via de Acesso - Programa Aprendiz - Concentrix.](https://www.vagas.com.br/vagas/v2702846/programa-aprendiz-concentrix)
+- [Empresa GRUPO ANITA SHOES - Auxiliar de TI Infra - Grupo Tobelli - Anita Shoes](https://www.vagas.com.br/vagas/v2700358/auxiliar-de-ti-infra-grupo-tobelli-anita-shoes)
+- [Empresa Sillion Serviços de Tecnologia LTDA - Assistente de Instalação](https://www.vagas.com.br/vagas/v2700313/assistente-de-instalacao)
+- [Empresa Instituto Via de Acesso - Aprendiz Administrativo - Uninove](https://www.vagas.com.br/vagas/v2699731/aprendiz-administrativo-uninove)
+- [Empresa CSN CIMENTOS - Assistente Administrativo (TI)](https://www.vagas.com.br/vagas/v2698108/assistente-administrativo-ti)
+
 {{< /accordion >}}
-{{< accordion "Estágio 3" >}}
-- [Empresa Hyundai - Estágio Service Desk](https://www.vagas.com.br/vagas/v2669416/estagio-service-desk)
-- [Empresa OFFICE TOTAL S/A - Estagio Técnico em TI](https://www.vagas.com.br/vagas/v2669574/estagio-tecnico-em-ti)
-- [Empresa Huawei - Estagiario em Gerenciamento de Projetos](https://www.vagas.com.br/vagas/v2668710/estagiario-em-gerenciamento-de-projetos-delivery)
-- [Empresa Cultura Inglesa - Estágio TI](https://www.vagas.com.br/vagas/v2668369/estagio-ti)
-- [Empresa Reckitt - Estágio em It&digital](https://www.vagas.com.br/vagas/v2667986/estagio-em-it-digital-reckitt-comercial)
-- [Empresa Huawei - Estagiário de Operações Técnicas](https://www.vagas.com.br/vagas/v2668069/estagiario-de-operacoes-tecnicas)
-- [Empresa Hyundai - Programa de Estágio](https://www.vagas.com.br/vagas/v2666793/programa-de-estagio-1s2025-hyundai-motor-brasil)
-- [Empresa Rede Cidadã - Estágio TI (Suporte)](https://www.vagas.com.br/vagas/v2660868/estagio-ti-suporte)
-- [Empresa EDITORA GLOBO - Estagiário de Segurança da Informação](https://www.vagas.com.br/vagas/v2660381/estagiario-de-seguranca-da-informacao)
-- [Empresa ArcelorMittal Gonvarri - Estágio em Tecnologia da Informação – TI](https://www.vagas.com.br/vagas/v2659923/estagio-em-tecnologia-da-informacao-ti)
-- [Empresa EDITORA GLOBO - Estagiário(a) de BI](https://www.vagas.com.br/vagas/v2659308/estagiario-a-de-bi)
-<!-- - [Empresa XXX - XXX](https) -->
+
+
+<!-- ------------------------------------------>
+<!-- ------------------------------------------>
+<!-- ------------------------------------------>
+<!-- ------------------------------------------>
+
+
+{{< accordion "Analista Júnior - Parte I" >}}
+
+
+- [Empresa HarperCollins Brasil  - Analista de TI (Infraestrutura)](https://www.vagas.com.br/vagas/v2703114/analista-de-ti-infraestrutura)
+- [Empresa Hospital São Camilo  - Analista de Cadastro Jr - Tasy](https://www.vagas.com.br/vagas/v2703126/analista-de-cadastro-jr-tasy)
+- [Empresa Giesecke+Devrient  - Analista de Projetos Jr](https://www.vagas.com.br/vagas/v2702704/analista-de-projetos-jr)
+- [Empresa Synchro  - Analista de Suporte Técnico Jr](https://www.vagas.com.br/vagas/v2702739/analista-de-suporte-tecnico-jr)
+- [Empresa JOBCENTER DO BRASIL LTDA  - Master Data](https://www.vagas.com.br/vagas/v2702447/master-data)
+- [Empresa Sillion Serviços de Tecnologia LTDA  - Agente de Monitoramento](https://www.vagas.com.br/vagas/v2702112/agente-de-monitoramento-banco-de-talentos)
+- [Empresa Ânima  - Analista Acadêmico Júnior (Learning Analytics)](https://www.vagas.com.br/vagas/v2702173/analista-academico-junior-learning-analytics-anima-holding)
+- [Empresa Array  - Analista de Power Bi | Dados](https://www.vagas.com.br/vagas/v2701845/analista-de-power-bi-dados)
+- [Empresa Chammas  - Analista de Suporte Jr](https://www.vagas.com.br/vagas/v2701386/analista-de-suporte-jr)
+- [Empresa Ânima  - Analista Acadêmico Júnior](https://www.vagas.com.br/vagas/v2701575/analista-academico-junior-anima-holding)
+- [Empresa Ânima  - Analista Acadêmico Júnior](https://www.vagas.com.br/vagas/v2701662/analista-academico-junior-anima-educacao)
+- [Empresa BARCELOS & JANSSEN ADVOGADOS ASSOCIADOS - Analista de Bi](https://www.vagas.com.br/vagas/v2700820/analista-de-bi)
+- [Empresa Pacaembu Construtora  - Auditor Interno](https://www.vagas.com.br/vagas/v2700414/auditor-interno)
+- [Empresa La Rondine Industria e Comercio de Embalagens Ltda  - Técnico de TI](https://www.vagas.com.br/vagas/v2699946/tecnico-de-ti)
+- [Empresa Ânima - Analista Planejamento I ](https://www.vagas.com.br/vagas/v2700177/analista-planejamento-i-operacoes-academicas-integracoes-anima)
+- [Empresa GRUPO TECHNOS  - Analista de Bi](https://www.vagas.com.br/vagas/v2699832/analista-de-bi-business-intelligence)
+
+
+
 {{< /accordion >}}
+
+
+<!-- ------------------------------------------>
+<!-- ------------------------------------------>
+<!-- ------------------------------------------>
+<!-- ------------------------------------------>
+
+
+{{< accordion "Analista Júnior - Parte II" >}}
+
+- [Empresa GRUPO - Analista](https://www.vagas.com.br/vagas/v2699832/analista-de-bi-business-intelligence)
+- [Empresa MAGNA Executive Search - Data Engineer](https://www.vagas.com.br/vagas/v2699435/data-engineer)
+- [Empresa Neooh - Analista de Bi Jr](https://www.vagas.com.br/vagas/v2699315/analista-de-bi-jr)
+- [Empresa BR Talent - Analista de Infraestrutura de TI Jr](https://www.vagas.com.br/vagas/v2698830/analista-de-infraestrutura-de-ti-jr-sao-paulo)
+- [Empresa Go Ahead - Trainee Pré-Vendas T.i](https://www.vagas.com.br/vagas/v2698720/trainee-pre-vendas-t-i)
+- [Empresa Jundu Ltda - Analista de Dados](https://www.vagas.com.br/vagas/v2698956/analista-de-dados-descalvado-sp)
+- [Empresa Rede D'Or - Analista de Suporte Jr](https://www.vagas.com.br/vagas/v2698930/analista-de-suporte-jr-ti-suporte-sao-luiz-osasco)
+- [Empresa Talent Group - Analista de Dados Jr](https://www.vagas.com.br/vagas/v2698836/10695-analista-de-dados-jr)
+- [Empresa TransUnion - Analista de Implantação de Sistemas Júnior](https://www.vagas.com.br/vagas/v2698727/analista-de-implantacao-de-sistemas-junior)
+- [Empresa CTC Tech - Analista de Bancos de Dados Junior](https://www.vagas.com.br/vagas/v2698477/analista-de-bancos-de-dados-junior)
+- [Empresa Ânima - Analista Ciência de Dados Júnior](https://www.vagas.com.br/vagas/v2697471/analista-ciencia-de-dados-junior)
+- [Empresa TO Brasil Consultoria em Tecnologia da Informação - Trainee Analytics (Dados)](https://www.vagas.com.br/vagas/v2694069/trainee-analytics-dados)
+
+
+{{< /accordion >}}
+
+
+<!-- ------------------------------------------>
+<!-- ------------------------------------------>
+<!-- ------------------------------------------>
+<!-- ------------------------------------------>
 
 <!-- {{< accordion "Efetivo" >}}
 
