@@ -17,88 +17,33 @@ Nós não somos responsáveis pelas vagas de emprego! Estamos pesquisando e cons
 
 <!-- - [Empresa XXX - XXX](https) -->
 
-{{< accordion "Estágio" >}}
+{{< accordion "Vagas de Emprego" >}}
 
-- [Empresa Across futuros convergentes - Estágio Iveco](https://www.vagas.com.br/vagas/v2703079/estagio-iveco)
-- [Empresa CSN CIMENTOS - Estágio](https://www.vagas.com.br/vagas/v2702577/estagio-nivel-superior)
-- [Empresa UniBH - Estagiário Suporte de TI ](https://www.vagas.com.br/vagas/v2702215/estagiario-suporte-de-ti-unibh)
-- [Empresa Hyundai AutoEver Brasil - Programa de Estágio](https://www.vagas.com.br/vagas/v2702135/programa-de-estagio)
-- [Empresa DP World Santos - Estágio de Planejamento Operacional](https://www.vagas.com.br/vagas/v2701900/estagio-de-planejamento-operacional)
-- [Empresa EDI-LABS - Estágio](https://www.vagas.com.br/vagas/v2702027/estagio-em-tecnologia-da-informacao-analise-de-sistemas-eng-de-dados-ia-ciencia-da-computacao-edi-labs)
-- [Empresa Huawei - Estágio Suporte e Desenvolvimento em TI](https://www.vagas.com.br/vagas/v2701421/estagio-suporte-e-desenvolvimento-em-ti)
-- [Empresa DP World Santos - Estágio TI](https://www.vagas.com.br/vagas/v2701619/estagio-ti)
-- [Empresa Hyundai Motor Brasil - Estagiário de Business Intelligence](https://www.vagas.com.br/vagas/v2701057/estagiario-de-business-intelligence)
-- [Empresa Cultura Inglesa - Estágio TI](https://www.vagas.com.br/vagas/v2700258/estagio-ti)
-- [Empresa Huawei - Estágio TI](https://www.vagas.com.br/vagas/v2699534/estagio-em-ti)
-- [Empresa TransUnion - Estágio em Implantação de Sistemas](https://www.vagas.com.br/vagas/v2699012/estagio-em-implantacao-de-sistemas)
-- [Empresa FI GROUP - Estágio TI](https://www.vagas.com.br/vagas/v2683779/estagio-em-ti-consultoria-tecnica-italiano-fluente)
-- [Empresa Grupo Águas do Brasil - Programa de Estágio 2025.1](https://www.vagas.com.br/vagas/v2696512/programa-de-estagio-2025-1-aguas-de-agulhas-negras)
-- [Empresa Huawei - Estágio TI](https://www.vagas.com.br/vagas/v2698128/estagio-em-ti)
-- [Empresa CNH Industrial - Estágio em It Corporate Latam](https://www.vagas.com.br/vagas/v2697873/estagio-em-it-corporate-latam)
+🚀 Você quer entrar para o mercado de TI?
+Se liga nessa oportunidade!
 
-{{< /accordion >}}
+Temos um grupo no WhatsApp exclusivo para compartilhar vagas de emprego e oportunidades reais na área de Engenharia de TI! 👨‍💻👩‍💻
+Se você está começando ou quer crescer na carreira, esse grupo é pra você.
 
+📲 Vagas, dicas, network e muito mais direto no seu WhatsApp!
 
-<!-- ------------------------------------------>
-<!-- ------------------------------------------>
-<!-- ------------------------------------------>
-<!-- ------------------------------------------>
+🔗 Clique para entrar no grupo: [GRUPO WHATSAPP](https://chat.whatsapp.com/EwJMklhKnHY9MSOwLywIv7)
 
-
-{{< accordion "Assistente/Auxiliar" >}}
-
-- [Empresa SGR  - Assistente de Recursos Humanos (Dados)](https://www.vagas.com.br/vagas/v2702103/assistente-de-recursos-humanos-dados)
-- [Empresa Sillion Serviços de Tecnologia LTDA - Assistente de Produção](https://www.vagas.com.br/vagas/v2701164/assistente-de-producao)
-- [Empresa Veolink - Assistente de Suporte Técnico](https://www.vagas.com.br/vagas/v2699413/assistente-de-suporte-tecnico)
-- [Empresa FEMSA - Coca Cola - Assistente Customer Service](https://www.vagas.com.br/vagas/v2703055/assistente-customer-service)
-- [Empresa OceanPact Serviços Maritimos S.A - Tecnico de Suporte TI](https://www.vagas.com.br/vagas/v2702906/tecnico-de-suporte-ti)
-- [Empresa Instituto Via de Acesso - Programa Aprendiz - Concentrix.](https://www.vagas.com.br/vagas/v2702846/programa-aprendiz-concentrix)
-- [Empresa GRUPO ANITA SHOES - Auxiliar de TI Infra - Grupo Tobelli - Anita Shoes](https://www.vagas.com.br/vagas/v2700358/auxiliar-de-ti-infra-grupo-tobelli-anita-shoes)
-- [Empresa Sillion Serviços de Tecnologia LTDA - Assistente de Instalação](https://www.vagas.com.br/vagas/v2700313/assistente-de-instalacao)
-- [Empresa Instituto Via de Acesso - Aprendiz Administrativo - Uninove](https://www.vagas.com.br/vagas/v2699731/aprendiz-administrativo-uninove)
-- [Empresa CSN CIMENTOS - Assistente Administrativo (TI)](https://www.vagas.com.br/vagas/v2698108/assistente-administrativo-ti)
-
-{{< /accordion >}}
-
-
-<!-- ------------------------------------------>
-<!-- ------------------------------------------>
-<!-- ------------------------------------------>
-<!-- ------------------------------------------>
-
-
-{{< accordion "Analista Júnior - Parte I" >}}
-
-
-- [Empresa HarperCollins Brasil  - Analista de TI (Infraestrutura)](https://www.vagas.com.br/vagas/v2703114/analista-de-ti-infraestrutura)
-- [Empresa Hospital São Camilo  - Analista de Cadastro Jr - Tasy](https://www.vagas.com.br/vagas/v2703126/analista-de-cadastro-jr-tasy)
-- [Empresa Giesecke+Devrient  - Analista de Projetos Jr](https://www.vagas.com.br/vagas/v2702704/analista-de-projetos-jr)
-- [Empresa Synchro  - Analista de Suporte Técnico Jr](https://www.vagas.com.br/vagas/v2702739/analista-de-suporte-tecnico-jr)
-- [Empresa JOBCENTER DO BRASIL LTDA  - Master Data](https://www.vagas.com.br/vagas/v2702447/master-data)
-- [Empresa Sillion Serviços de Tecnologia LTDA  - Agente de Monitoramento](https://www.vagas.com.br/vagas/v2702112/agente-de-monitoramento-banco-de-talentos)
-- [Empresa Ânima  - Analista Acadêmico Júnior (Learning Analytics)](https://www.vagas.com.br/vagas/v2702173/analista-academico-junior-learning-analytics-anima-holding)
-- [Empresa Array  - Analista de Power Bi | Dados](https://www.vagas.com.br/vagas/v2701845/analista-de-power-bi-dados)
-- [Empresa Chammas  - Analista de Suporte Jr](https://www.vagas.com.br/vagas/v2701386/analista-de-suporte-jr)
-- [Empresa Ânima  - Analista Acadêmico Júnior](https://www.vagas.com.br/vagas/v2701575/analista-academico-junior-anima-holding)
-- [Empresa Ânima  - Analista Acadêmico Júnior](https://www.vagas.com.br/vagas/v2701662/analista-academico-junior-anima-educacao)
-- [Empresa BARCELOS & JANSSEN ADVOGADOS ASSOCIADOS - Analista de Bi](https://www.vagas.com.br/vagas/v2700820/analista-de-bi)
-- [Empresa Pacaembu Construtora  - Auditor Interno](https://www.vagas.com.br/vagas/v2700414/auditor-interno)
-- [Empresa La Rondine Industria e Comercio de Embalagens Ltda  - Técnico de TI](https://www.vagas.com.br/vagas/v2699946/tecnico-de-ti)
-- [Empresa Ânima - Analista Planejamento I ](https://www.vagas.com.br/vagas/v2700177/analista-planejamento-i-operacoes-academicas-integracoes-anima)
-- [Empresa GRUPO TECHNOS  - Analista de Bi](https://www.vagas.com.br/vagas/v2699832/analista-de-bi-business-intelligence)
+Vem fazer parte da nossa comunidade e dar o próximo passo na sua jornada!
 
 
 
 {{< /accordion >}}
 
 
+
 <!-- ------------------------------------------>
 <!-- ------------------------------------------>
 <!-- ------------------------------------------>
 <!-- ------------------------------------------>
 
 
-{{< accordion "Analista Júnior - Parte II" >}}
+<!-- {{< accordion "Analista Júnior - Parte II" >}}
 
 - [Empresa GRUPO - Analista](https://www.vagas.com.br/vagas/v2699832/analista-de-bi-business-intelligence)
 - [Empresa MAGNA Executive Search - Data Engineer](https://www.vagas.com.br/vagas/v2699435/data-engineer)
@@ -114,7 +59,7 @@ Nós não somos responsáveis pelas vagas de emprego! Estamos pesquisando e cons
 - [Empresa TO Brasil Consultoria em Tecnologia da Informação - Trainee Analytics (Dados)](https://www.vagas.com.br/vagas/v2694069/trainee-analytics-dados)
 
 
-{{< /accordion >}}
+{{< /accordion >}} -->
 
 
 <!-- ------------------------------------------>
