@@ -34,7 +34,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 # copyright
 # copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
-copyright = "© 2024 Algoritmo Aberto"
+copyright = "© 2025 Algoritmo Aberto"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
