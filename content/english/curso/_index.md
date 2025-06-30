@@ -2,6 +2,9 @@
 title: "Engenharia de TI: Guia do Iniciante"
 ---
 
+<!-- [QUERO APRENDER](https://hotmart.com/pt-br/club/algoritmo-aberto/products/3849476) -->
+
+
 <!-- Bem-vindo ao curso "Engenharia de Software Descomplicada: Guia do Iniciante"! Este curso foi cuidadosamente projetado para ajudar você a dar os primeiros passos na emocionante jornada da engenharia de software.
 
 Você está prestes a embarcar em uma jornada de aprendizado onde vamos desvendar os conceitos fundamentais da engenharia de software de uma forma simples e acessível. Não importa se você é completamente novo nesse mundo ou se já possui algum conhecimento básico, este curso foi projetado para atender às suas necessidades.

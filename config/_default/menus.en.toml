@@ -12,8 +12,8 @@ url = "sobre/"
 weight = 2
 
 [[main]]
-name = "Quero Aprender"
-url = "quero-aprender/"
+name = "Curso"
+url = "curso/"
 weight = 3
 
 #[main]]
