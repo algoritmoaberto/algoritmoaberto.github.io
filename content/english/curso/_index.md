@@ -2,6 +2,11 @@
 title: "Engenharia de TI: Guia do Iniciante"
 ---
 
+<br>
+
+{{< button label="Quero Aprender" link="https://hotmart.com/pt-br/club/algoritmo-aberto/products/3849476" style="solid" >}}
+
+
 <!-- [QUERO APRENDER](https://hotmart.com/pt-br/club/algoritmo-aberto/products/3849476) -->
 
 
